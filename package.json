@@ -1,0 +1,23 @@
+{
+  "name": "simple-crud-sequelize-graphql-mysql",
+  "version": "1.0.0",
+  "description": "Graphql crud use Sequelize Mysql",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "",
+  "license": ""
+}
