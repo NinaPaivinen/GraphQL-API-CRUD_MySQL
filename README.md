@@ -1,1 +1,19 @@
-readme
+GraphQL CRUD with MYSQL Database example
+
+JavaScript NodeJS
+
+// db.private.js example:
+
+module.exports = {
+  HOST: "127.0.0.1",
+  USER: "root",
+  PASSWORD: "SALASANA",
+  DB: "TIETOKANTA",
+  dialect: "mysql",
+  pool: {
+    max: 5,
+    min: 0,
+    acquire: 30000,
+    idle: 10000
+}
+};
