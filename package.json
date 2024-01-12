@@ -1,7 +1,7 @@
 {
-  "name": "simple-crud-sequelize-graphql-mysql",
+  "name": "graphql crud",
   "version": "1.0.0",
-  "description": "Graphql crud use Sequelize Mysql",
+  "description": "graphql crud",
   "main": "server.js",
   "dependencies": {
     "express": "^4.18.2",
