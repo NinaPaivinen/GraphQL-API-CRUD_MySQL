@@ -1,4 +1,4 @@
-# GraphQL CRUD with MYSQL Database example
+# GraphQL-API: CRUD with MYSQL Database
 
 ## HTTP-methods
 + Add new dog
