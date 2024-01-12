@@ -12,7 +12,7 @@
 * Language: JavaScript
 * Server/runtime environment: NodeJS
 
-![Alt text](image.png) git add --all
+![Alt text](image.png) 
 1. Picture. Database table.
 
 Date: 6/2023
