@@ -1,6 +1,6 @@
 # GraphQL CRUD with MYSQL Database example
 
-## A second-level heading
+## HTTP-methods
 + Add new dog
 + Show all dogs
 + Show dog by ID
@@ -8,9 +8,9 @@
 + Upadate dog by ID
 
 ## Specs
-Database: MySQL
-Language: JavaScript
-Server/runtime environment: NodeJS
+* Database: MySQL
+* Language: JavaScript
+* Server/runtime environment: NodeJS
 
 ![Alt text](image.png)
 1. Picture. Database table.
